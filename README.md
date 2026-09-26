@@ -35,7 +35,7 @@ Mobile app for padel players: create and join matches, chat in real time, book c
 First-person psychological horror game made in a team of four. I built the enemy AI (patrol/chase/attack with sight and hearing), the "don't blink" statue, the cinematic intro and the player controller.
 `Unity` `C#` `NavMesh AI` `URP`
 
-### [VR Bank Heist](https://github.com/wimmevdv/vr-ai-bank-heist)
+### [VR Bank Heist](https://github.com/Mavan03/vr-bank-heist)
 VR heist game in Unity, made in a team of four. I trained the ML-Agents security guard that patrols, reacts to noise and remembers where it last saw the player, and built the heist game loop.
 `Unity` `C#` `ML-Agents` `VR`
 
