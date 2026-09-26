@@ -1,9 +1,9 @@
-# Hi, I'm Marwan 👋
+# Hi, I'm Marwan 
 
 Final-year Applied Computer Science student (IT & Software) at **AP Hogeschool Antwerpen**, Belgium.
 I build full-stack web applications and also work on mobile apps, game/VR development and DevOps tooling.
 
-🎯 **Looking for an internship from February to May 2027.** Feel free to reach out.
+**Looking for an internship from February to May 2027.** Feel free to reach out.
 
 ---
 
@@ -51,6 +51,6 @@ Containerised Moodle environment with a Traefik reverse proxy (HTTPS), a Jenkins
 
 ---
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/marwan-bouchdig-587563224) · marwan.bouchdig@gmail.com
